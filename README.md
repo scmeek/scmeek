@@ -2,15 +2,11 @@
 
 I'm a software engineer passionate about building secure, scalable platforms and contributing to open-source projects. With a strong background in software security and InfoSec, I enjoy solving complex problems, sharing knowledge, and collaborating with others to create inclusive, high-performing communities. Always eager to learn, teach, and make an impact through open, secure development.
 
-## 🌏 When I'm not coding, I'm...
+## 🧑‍💻 I approach to work...
 
-- **Making & Hacking**: From DIY projects to tech experiments, I love creating and tinkering.
-- **Scuba diving**: Exploring and discovering our Earth's underwater world and the beautiful creatures that live there.
-- **Skiing**: Chasing fresh powder on the slopes is one of my favorite ways to unwind.
-- **Mountain Biking**: Adventuring trails and pushing limits on two wheels keeps me grounded.
-- **Travel**: Whether it’s a weekend getaway or a cross-continental adventure, I’m always up for exploring new places.
-- **Live Music**: Nothing beats the energy of a great concert.
-- **Spending Time with My Dogs**: My furry companions are a constant source of joy.
+- **Thorough and Focused**: When I’m working on a task or concept, I dedicate myself to understanding the details and seeing it through to completion.
+- **Collaboration and Mentorship**: I value working with others to share knowledge and build something greater together.
+- **Security and Scalability**: I prioritize secure, scalable solutions that stand the test of time.
 
 ## 💬 The best way to communicate with me...
 
@@ -84,11 +80,15 @@ AxPS9STfWCxzSKicnusNoetmpJ9Q2GN06mJcn6Nx8EOOY9kGqT9iC+Wz3nv8VX9H
 
 </details>
 
-## 🧑‍💻 I approach to work...
+## 🌏 When I'm not coding, I'm...
 
-- **Thorough and Focused**: When I’m working on a task or concept, I dedicate myself to understanding the details and seeing it through to completion.
-- **Collaboration and Mentorship**: I value working with others to share knowledge and build something greater together.
-- **Security and Scalability**: I prioritize secure, scalable solutions that stand the test of time.
+- **Making & Hacking**: From DIY projects to tech experiments, I love creating and tinkering.
+- **Scuba diving**: Exploring and discovering our Earth's underwater world and the beautiful creatures that live there.
+- **Skiing**: Chasing fresh powder on the slopes is one of my favorite ways to unwind.
+- **Mountain Biking**: Adventuring trails and pushing limits on two wheels keeps me grounded.
+- **Travel**: Whether it’s a weekend getaway or a cross-continental adventure, I’m always up for exploring new places.
+- **Live Music**: Nothing beats the energy of a great concert.
+- **Spending Time with My Dogs**: My furry companions are a constant source of joy.
 
 ## ⌨️ Connect with me...
 
